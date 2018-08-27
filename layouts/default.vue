@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="mt-4">
     <nuxt/>
   </div>
 </template>
@@ -50,4 +50,3 @@ html {
   background-color: #35495e;
 }
 </style>
-
